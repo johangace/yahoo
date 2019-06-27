@@ -1,0 +1,63 @@
+#navz {
+  font-family: arial sans-serif;
+  height: 4vh;
+  place-items: center;
+  display: flex;
+  justify-content: none;
+  margin-top: 25px;
+  font-weight: lighter;
+}
+
+
+.topics {
+ margin-left: 17px;
+  font-family: 'Arial', sans-serif;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+
+.topics a {
+
+
+}
+.purple {
+  place-items: center;
+  display: flex;
+  height: 4vh;
+  width: 42%;
+  background-color: #7B0099;
+
+}
+
+.purple a {
+color: white;
+font-weight: lighter;
+
+}
+
+.gray {
+  place-items: center;
+  display: flex;
+  height: 4vh;
+  width: 58%;
+  background-color: #F3EEF7;
+}
+
+
+.profilepic {
+  margin: -10px 10px;
+  height: 28px;
+  border-radius: 100%;
+  border: 0px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+}
+.icon {
+   margin: -5px 10px;
+   height: 30px;
+   border-radius: 100%;
+   border: 0px;
+   object-fit: cover;
+   background-repeat: no-repeat;
+}
